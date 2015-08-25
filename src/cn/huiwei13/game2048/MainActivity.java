@@ -1,4 +1,4 @@
-package cn.huiwei13._2048;
+package cn.huiwei13.game2048;
 
 import android.os.Bundle;
 import android.app.Activity;
